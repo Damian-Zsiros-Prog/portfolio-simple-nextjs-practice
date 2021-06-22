@@ -3,7 +3,7 @@ import Layout from "../components/Layout";
 const Blog = () => {
   return (
     <Layout>
-      <h1>Index Blog</h1>
+      <h1>Blog</h1>
     </Layout>
   );
 };
